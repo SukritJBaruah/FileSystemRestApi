@@ -1,0 +1,9 @@
+PUT http://localhost:5123/fsi/987nv463
+Content-Type: application/json
+
+{
+    "Name": "sampleFile2.png",
+    "DataB64": "udsgsdghabc",
+    "UpdatedDateUnixTime": 1666973999,
+    "ParentId": "hjbcse0i84"
+}

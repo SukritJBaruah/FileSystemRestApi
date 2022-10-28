@@ -1,0 +1,11 @@
+POST http://localhost:5123/fsi
+Content-Type: application/json
+
+{
+    "Name": "sampleFile.png",
+    "Id": "987nv463",
+    "MimeType": "image/png",
+    "DataB64": "sjfgajsfjaslkjfhabc",
+    "CreatedDateUnixTime": 1666973567,
+    "ParentId": "hjbcse0i84"
+}
